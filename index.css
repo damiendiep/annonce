@@ -1,0 +1,17 @@
+body {
+	margin: 0 auto;
+	padding: 0 auto;
+	margin-left: 480px;
+}
+
+h1 {
+	font-family: 'Dosis', cursiva;
+}
+
+HR {
+	width: 415px;
+}
+
+#container{
+	display: inline-block;
+}
