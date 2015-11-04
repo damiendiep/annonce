@@ -1,5 +1,5 @@
 body {
-	margin-left: 25%;
+	margin-left: 10%;
 }
 
 h1 {
@@ -26,6 +26,7 @@ p {
 	margin: 0 auto;
 	font-family: 'Dosis', cursiva;
 	color: #D85600;
+	display: inline-block;
 }
 
 .map {
