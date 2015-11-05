@@ -1,5 +1,5 @@
 body {
-	margin-left: 5%;
+	margin-left: 17%;
 }
 
 h1 {
@@ -16,6 +16,7 @@ HR {
 }
 
 img {
+	margin-left: 3%;
 	width: 65%;
 }
 
@@ -41,5 +42,6 @@ p {
 	float: right;
 	font-size: 15px;
 	display: inline-block;
-	margin-right: 30%;
+	margin-left: 5%;
+	text-align: center;
 }
