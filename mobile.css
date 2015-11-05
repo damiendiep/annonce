@@ -1,5 +1,5 @@
 body {
-	margin-left: 10%;
+	margin-left: 5%;
 }
 
 h1 {
@@ -7,12 +7,16 @@ h1 {
 }
 
 HR {
-	width: 415px;
+	width: 80%;
 }
 
 #container{
 	display: inline-block;
 	margin-top: 30px;
+}
+
+img {
+	width: 65%;
 }
 
 a {
@@ -32,6 +36,7 @@ p {
 .map {
 	display: inline;
 }
+
 .righbanner {
 	float: right;
 	font-size: 15px;
