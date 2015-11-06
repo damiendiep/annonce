@@ -2,6 +2,10 @@ body {
 	margin: 0 auto;
 }
 
+header {
+	margin-left: 7%;
+}
+
 h1 {
 	font-family: 'Dosis', cursiva;
 }
@@ -16,7 +20,7 @@ HR {
 }
 
 img {
-	margin-left: 3%;
+	margin-left: 2%;
 	width: 80%;
 }
 
@@ -42,6 +46,6 @@ p {
 	float: right;
 	font-size: 15px;
 	display: inline-block;
-	margin-left: 5%;
+	margin-left: 15%;
 	text-align: center;
 }
