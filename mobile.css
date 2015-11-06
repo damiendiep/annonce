@@ -1,29 +1,36 @@
+/*global margin left*/
 body {
 	margin: 0 auto;
 }
 
+/*title + hr */
 header {
 	margin-left: 7%;
 }
 
+/*title*/
 h1 {
 	font-family: 'Dosis', cursiva;
 }
 
+/*séparateur*/
 HR {
 	width: 80%;
 }
 
+/*image map*/
 #container{
 	display: inline-block;
 	margin-top: 30px;
 }
 
+/*img src*/
 img {
 	margin-left: 2%;
 	width: 80%;
 }
 
+/*district name*/
 a {
 	margin: 0 auto;
 	font-family: 'Dosis', cursiva;
@@ -31,6 +38,7 @@ a {
 	font-size: 1.2em;
 }
 
+/*paragraphe district*/
 p {
 	margin: 0 auto;
 	font-family: 'Dosis', cursiva;
@@ -38,10 +46,12 @@ p {
 	display: inline-block;
 }
 
+/*image mapping*/
 .map {
 	display: inline;
 }
 
+/*district name float*/
 .righbanner {
 	float: right;
 	font-size: 15px;
