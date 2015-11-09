@@ -2,15 +2,18 @@
 body {
 	margin-left: 25%;
 }
-/*title*/
 
+/*title*/
 h1 {
 	font-family: 'Dosis', cursiva;
 }
 
 /*séparateur*/
-HR {
+hr {
 	width: 415px;
+	height: 1px; 
+	margin-left: 0; 
+	background:#F76800;
 }
 
 /*image map*/
